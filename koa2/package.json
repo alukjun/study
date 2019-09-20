@@ -1,0 +1,15 @@
+{
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon star.js"
+    },
+    "dependencies": {
+        "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+        "babel-register": "^6.26.0",
+        "koa": "^2.7.0",
+        "koa-bodyparser": "^4.2.1",
+        "koa-router": "^7.4.0",
+        "koa-session": "^5.11.0",
+        "nodemon": "^1.19.0"
+    }
+}
